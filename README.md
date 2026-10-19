@@ -2,6 +2,11 @@
 
 A mini React project that lets you search any city and instantly see its live weather. The UI is built entirely with **Material UI (MUI)** built-in components, and the data comes from the **OpenWeatherMap API**.
 
+🚀 **Live Demo:** [View WeatherLy](https://mini-project-react-material-60lwxhebf-no-team-0d25.vercel.app/)
+
+💻 **GitHub Repository:** [View Source Code](https://github.com/VedantGupta27/weatherly)
+
+
 ---
 
 ## ✨ Features
